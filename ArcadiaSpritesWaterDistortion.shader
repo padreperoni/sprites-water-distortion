@@ -1,11 +1,11 @@
 ﻿// ==============================================================================================
 //  ArcadiaSpritesWaterDistortion.shader
 // ==============================================================================================
-// Project:			Beyond the Sky
-// Version:         1.0.0
-// Author: 			Federico Mercurio
-//					EMail: mercurio@iperuraniaarts.com
-//					Twitter: @fefe_mercurio
+// Project:		Beyond the Sky
+// Version:		1.0.0
+// Author: 		Federico Mercurio
+//			EMail: mercurio@iperuraniaarts.com
+//			Twitter: @fefe_mercurio
 // Last modified:	22/05/2016
 // ==============================================================================================
 
