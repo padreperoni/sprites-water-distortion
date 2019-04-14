@@ -1,4 +1,6 @@
 # Sprites/Water Distortion - Shader for Unity
+Warning: this shader is a bit outdated, but it still works
+
 This is the shader we're using in [**Beyond the Sky**](http://www.iperuraniaarts.com) for rendering water surface. It's quite easy to use:
 choose a base sprite (it works with the sprite renderer component), the right sorting layer and order, select a texture for distortion
 effect, scale it, set X and Y refraction values and set a scroll speed. If you don’t set the scroll speed the distortion will stay still,
